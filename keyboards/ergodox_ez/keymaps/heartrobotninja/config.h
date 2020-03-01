@@ -15,4 +15,6 @@
 #undef TAPPING_TOGGLE
 #define TAPPING_TOGGLE 2
 
+#define ERGODOX_LED_30
+
 #endif
